@@ -1,3 +1,5 @@
+package Posttest2;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -138,7 +140,7 @@ public class Casing {
     }
 
     public static void main(String[] args) {
-        ProgramPenjualan programPenjualan = new ProgramPenjualan();
+        Casing programPenjualan  = new Casing();
         Scanner sc = new Scanner(System.in);
         int pilih;
         do {
